@@ -1,3 +1,55 @@
 Exercícios sobre Programação Web
 
 Como aconteceu a evolução da tecnologia JavaScript no decorrer dos anos?
+a evolução da tecnologia JavaScript no decorrer dos anos é um assunto que sempre me chamou a atenção, e que sempre me fez pensar em como a tecnologia evoluiu e como ela é importante para o nosso dia a dia
+
+Qual a diferença entre Java e JavaScript?
+javascript é uma linguagem de programação interpretada, de script em alto nível com tipagem dinâmica fraca e multi-paradigma. Já Java é uma linguagem de programação orientada a objetos, desenvolvida pela Sun Microsystems, que foi adquirida pela Oracle Corporation em 2010
+
+Quais as formas de se trabalhar com JavaScript junto com html. Dê exemplos.
+Inserindo o código JavaScript dentro de uma tag script dentro do html, mas com o atributo src, que recebe o caminho do arquivo JavaScript
+Inserindo o código JavaScript dentro de uma tag script dentro do html, mas com o atributo src, que recebe o caminho do arquivo JavaScript, e com o atributo type, que recebe o valor text/javascript
+Inserindo o código JavaScript dentro de uma tag script dentro do html
+
+4- Como funciona o processamento do JavaScript em uma página web?
+O  processamento de funcionamento de uma pagina  com o JapaScript funciona da seguinte forma:
+- O navegador começa a ler o html
+-  Quando o navegador encontra uma tag script, ele para de ler o html e começa a ler o JavaScript
+- Quando o navegador termina de ler o JavaScript, ele volta a ler o html
+
+5- Qual a importância do JavaScript em um projeto Web?
+É que ele é a linguagem de programação que permite que o usuário interaja com a página web
+
+6- Pesquise e cite quais frameworks para JavaScript existem atualmente no mercado e para que servem?
+- AngularJS: É um framework para desenvolvimento de aplicações web dinâmica
+- Materialize: É um framework para desenvolvimento de aplicações web dinâmicas
+- Vue: É uma biblioteca para desenvolvimento de aplicações web dinâmicas
+- Pure: É um framework para desenvolvimento de aplicações web dinâmicas.
+- React: É uma biblioteca para desenvolvimento de aplicações web dinâmicas
+
+7- Qual a principal finalidade de uma variável em Javascript?
+É armazenar um valor
+
+8- Usando a instrução alert, faça um algoritmo que exibe para o usuário a mensagem: “Bom dia usuário.”
+<doctype html>
+<html>
+<body>
+  <script>
+    alert("bom dia usuario");
+  </script>
+</body>
+</html
+
+9- Quais editores de código javascript podemos utilizar?
+- CoffeeCup HTML Editor
+- CoffeeCup Free HTML Editor
+- CoffeeCup Visual Site Designer
+-  CoffeeCup Web Form Builder
+- CoffeeCup HTML Editor Pro
+- CoffeeCup Web Form Builder Pro
+
+10- Qual é a diferença entre Javascript e Typescript?
+A diferença entre os dois são é que  Typescript é um superset do Javascript, ou seja, é um Javascript com mais recursos
+
+11- O que é um CRUD e como ele funciona?
+
